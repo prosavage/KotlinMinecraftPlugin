@@ -8,7 +8,7 @@ object Config {
     private val instance = this
 
 
-
+    var coolOption = "bruh"
 
 
     fun save() {
