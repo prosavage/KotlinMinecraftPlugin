@@ -1,0 +1,5 @@
+name: KotlinMinecraftPlugin
+api-version: 1.13
+author: ProSavage
+version: ${project.version}
+main: net.prosavage.KotlinMinecraftPlugin
